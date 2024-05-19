@@ -42,4 +42,16 @@ In WallCreation.cs, change 'User Variable' to your desired values. Just make sur
 ## Demo
 
 Insert gif or link to demo
+\
+1. Demo video for Python AI model
+
+
+https://github.com/BaeSungHyun/Automatic-Wall-Creation-from-Raster-Floor-Plan-in-Revit/assets/117246534/9b6d7519-6c03-4dd9-8cf5-c4b565f0393d
+
+
+  
+2. Demo video for Revit Addin 
+
+
+https://github.com/BaeSungHyun/Automatic-Wall-Creation-from-Raster-Floor-Plan-in-Revit/assets/117246534/c8383bef-0cb4-4a30-a46c-05329aac87dc
 
