@@ -2,8 +2,8 @@
 ## Acknowledgements
 
  - This project uses model from https://github.com/CubiCasa/CubiCasa5k repository which is under Creative Commons Attribution-NonCommercial 4.0 International License.
- - Python code of this project is written in Ubuntu and Conda environment. Thus, requirements.txt will only work on Ubuntu
- - C# code of this project is written in Windows and Visual Studio
+ - Python code of this project is written in Ubuntu, Conda environment and cuda (Geforce RTX 3060). Thus, requirements.txt will only work on Ubuntu. 
+ - C# code of this project is written in Windows and Visual Studio.
  - The C# code of this project targets Revit 2025, 
  https://help.autodesk.com/view/RVT/2025/ENU/?guid=Revit_API_Revit_API_Developers_Guide_html use this link to set up addin file.
 
