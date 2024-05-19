@@ -55,3 +55,9 @@ https://github.com/BaeSungHyun/Automatic-Wall-Creation-from-Raster-Floor-Plan-in
 
 https://github.com/BaeSungHyun/Automatic-Wall-Creation-from-Raster-Floor-Plan-in-Revit/assets/117246534/c8383bef-0cb4-4a30-a46c-05329aac87dc
 
+
+\
+\
+Final Photo of Wall
+
+![Final_Wall](https://github.com/BaeSungHyun/Automatic-Wall-Creation-from-Raster-Floor-Plan-in-Revit/assets/117246534/4adce065-daeb-425b-a217-66bb99cfc733)
