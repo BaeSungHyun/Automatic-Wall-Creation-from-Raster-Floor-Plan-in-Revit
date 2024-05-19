@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+
+<RevitAddIns>
+<AddIn Type="Command">
+<Assembly>C:\Automatic-Wall-Creation-from-Raster-Floor-Plan-in-Revit\Revit_Addin_Code\AutomaticWallCreation\bin\Debug\net8.0\AutomaticWallCreation.dll</Assembly>
+<AddInId>502fe725-2648-4e98-adf8-5e6047f9dc34</AddInId>
+<FullClassName>AutomaticWallCreation.WallCreation</FullClassName>
+<Text>Thanks</Text> 
+<VendorId>BaeSungHyun</VendorId>
+<VendorDescription>https://github.com/BaeSungHyun/Automatic-Wall-Creation-from-Raster-Floor-Plan-in-Revit?tab=readme-ov-file</VendorDescription>
+</AddIn>
+</RevitAddIns>
