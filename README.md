@@ -1,13 +1,13 @@
 
 ## Acknowledgements
 
- - This project uses model from https://github.com/CubiCasa/CubiCasa5k repository which is under Creative Commons Attribution-NonCommercial 4.0 International License.
+ - This project uses model and data from https://github.com/CubiCasa/CubiCasa5k repository which is under Creative Commons Attribution-NonCommercial 4.0 International License.
  - Python code of this project is written in Ubuntu, Conda environment and cuda (Geforce RTX 3060). Thus, requirements.txt will only work on Ubuntu. 
  - C# code of this project is written in Windows and Visual Studio.
  - The C# code of this project targets Revit 2025, 
  https://help.autodesk.com/view/RVT/2025/ENU/?guid=Revit_API_Revit_API_Developers_Guide_html use this link to set up addin file.
 
- - 이 프로젝트는 Creative Commons Attribution-NonCommercial 4.0 International License 하에 있는 https://github.com/CubiCasa/CubiCasa5k 리포지토리의 모델을 사용합니다.
+ - 이 프로젝트는 Creative Commons Attribution-NonCommercial 4.0 International License 하에 있는 https://github.com/CubiCasa/CubiCasa5k 리포지토리의 모델과 데이터를 사용합니다.
  - 이 프로젝트의 Python 코드는 Ubuntu, Conda 환경 및 CUDA (Geforce RTX 3060)에서 작성되었습니다. 따라서 requirements.txt 파일은 Ubuntu에서만 작동합니다.
  - 이 프로젝트의 C# 코드는 Windows와 Visual Studio에서 작성되었습니다.
  - 이 프로젝트의 C# 코드는 Revit 2025을 대상으로 합니다. https://help.autodesk.com/view/RVT/2025/ENU/?guid=Revit_API_Revit_API_Developers_Guide_html 링크를 사용하여 애드인 파일을 설정하세요.
