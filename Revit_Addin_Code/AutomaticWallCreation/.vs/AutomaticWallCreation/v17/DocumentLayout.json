@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Automatic-Wall-Creation-from-Raster-Floor-Plan-in-Revit\\Revit_Addin_Code\\AutomaticWallCreation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{037A9C0E-5AD8-4C3C-B687-879CA2117F3F}|AutomaticWallCreation.csproj|c:\\automatic-wall-creation-from-raster-floor-plan-in-revit\\revit_addin_code\\automaticwallcreation\\wallcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{037A9C0E-5AD8-4C3C-B687-879CA2117F3F}|AutomaticWallCreation.csproj|solutionrelative:wallcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WallCreation.cs",
+              "DocumentMoniker": "C:\\Automatic-Wall-Creation-from-Raster-Floor-Plan-in-Revit\\Revit_Addin_Code\\AutomaticWallCreation\\WallCreation.cs",
+              "RelativeDocumentMoniker": "WallCreation.cs",
+              "ToolTip": "C:\\Automatic-Wall-Creation-from-Raster-Floor-Plan-in-Revit\\Revit_Addin_Code\\AutomaticWallCreation\\WallCreation.cs",
+              "RelativeToolTip": "WallCreation.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T00:31:31.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -205,8 +205,6 @@ class hg_furukawa_original(nn.Module):
         out = self.upsample(out)
         # heatmap channels go trough sigmoid
         out[:, :21] = self.sigmoid(out[:, :21])
-        
-        print(out.size())
     
         return out
 

@@ -83,8 +83,8 @@ def model_forward(image: torch.Tensor, model):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--image', nargs='?', type=str, default="floor_plan.png")
-    parser.add_argument('--output', nargs='?', type=str, default="revit_wall.csv")
+    parser.add_argument('--image', nargs='?', type=str, default="./data/F1_scaled.png")
+    parser.add_argument('--output', nargs='?', type=str, default="./data/revit_wall.csv")
     args = parser.parse_args()
     
     main(args)

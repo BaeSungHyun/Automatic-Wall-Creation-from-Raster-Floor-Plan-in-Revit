@@ -1,0 +1,13 @@
+C:\Automatic-Wall-Creation-from-Raster-Floor-Plan-in-Revit\Revit_Addin_Code\AutomaticWallCreation\bin\Debug\net8.0\AutomaticWallCreation.deps.json
+C:\Automatic-Wall-Creation-from-Raster-Floor-Plan-in-Revit\Revit_Addin_Code\AutomaticWallCreation\bin\Debug\net8.0\AutomaticWallCreation.dll
+C:\Automatic-Wall-Creation-from-Raster-Floor-Plan-in-Revit\Revit_Addin_Code\AutomaticWallCreation\bin\Debug\net8.0\AutomaticWallCreation.pdb
+C:\Automatic-Wall-Creation-from-Raster-Floor-Plan-in-Revit\Revit_Addin_Code\AutomaticWallCreation\obj\Debug\net8.0\AutomaticWallCreation.csproj.AssemblyReference.cache
+C:\Automatic-Wall-Creation-from-Raster-Floor-Plan-in-Revit\Revit_Addin_Code\AutomaticWallCreation\obj\Debug\net8.0\AutomaticWallCreation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Automatic-Wall-Creation-from-Raster-Floor-Plan-in-Revit\Revit_Addin_Code\AutomaticWallCreation\obj\Debug\net8.0\AutomaticWallCreation.AssemblyInfoInputs.cache
+C:\Automatic-Wall-Creation-from-Raster-Floor-Plan-in-Revit\Revit_Addin_Code\AutomaticWallCreation\obj\Debug\net8.0\AutomaticWallCreation.AssemblyInfo.cs
+C:\Automatic-Wall-Creation-from-Raster-Floor-Plan-in-Revit\Revit_Addin_Code\AutomaticWallCreation\obj\Debug\net8.0\AutomaticWallCreation.csproj.CoreCompileInputs.cache
+C:\Automatic-Wall-Creation-from-Raster-Floor-Plan-in-Revit\Revit_Addin_Code\AutomaticWallCreation\obj\Debug\net8.0\AutomaticWallCreation.sourcelink.json
+C:\Automatic-Wall-Creation-from-Raster-Floor-Plan-in-Revit\Revit_Addin_Code\AutomaticWallCreation\obj\Debug\net8.0\AutomaticWallCreation.dll
+C:\Automatic-Wall-Creation-from-Raster-Floor-Plan-in-Revit\Revit_Addin_Code\AutomaticWallCreation\obj\Debug\net8.0\refint\AutomaticWallCreation.dll
+C:\Automatic-Wall-Creation-from-Raster-Floor-Plan-in-Revit\Revit_Addin_Code\AutomaticWallCreation\obj\Debug\net8.0\AutomaticWallCreation.pdb
+C:\Automatic-Wall-Creation-from-Raster-Floor-Plan-in-Revit\Revit_Addin_Code\AutomaticWallCreation\obj\Debug\net8.0\ref\AutomaticWallCreation.dll
