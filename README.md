@@ -30,12 +30,11 @@ Second, use csv file in the first stage to automatically create wall using Revit
 Fork or clone the repository.\
 리포지토리를 포크하거나 클론하세요.
 
-1. To use ai model in python, set up the environment using requirements.txt and conda.
 \
-1. Python에서 AI 모델을 사용하려면 requirements.txt와 conda를 사용하여 환경을 설정하세요.
+1.To use ai model in python, set up the environment using requirements.txt and conda.
 \
-
-
+1.Python에서 AI 모델을 사용하려면 requirements.txt와 conda를 사용하여 환경을 설정하세요.
+\
 
 ```python
 conda create --name myenv --file requirements.txt
@@ -46,7 +45,7 @@ After running the code, make sure the csv file is located at your desired path.\
 코드를 실행한 후, csv 파일이 원하는 경로에 있는지 확인하세요.
 
 \
-2. Place 'Revit_Addin_Code/AutomaticWallCreationFromCSV.addin' into your Revit addin path, which is specified in Revit documentation. (https://help.autodesk.com/view/RVT/2025/ENU/?guid=Revit_API_Revit_API_Developers_Guide_html) 
+2.Place 'Revit_Addin_Code/AutomaticWallCreationFromCSV.addin' into your Revit addin path, which is specified in Revit documentation. (https://help.autodesk.com/view/RVT/2025/ENU/?guid=Revit_API_Revit_API_Developers_Guide_html) 
 \
 2.'Revit_Addin_Code/AutomaticWallCreationFromCSV.addin' 파일을 Revit 문서에 명시된 Revit 애드인 경로에 배치하세요. (https://help.autodesk.com/view/RVT/2025/ENU/?guid=Revit_API_Revit_API_Developers_Guide_html) 
 \
