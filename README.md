@@ -2,10 +2,10 @@
 ## Acknowledgements
 
  - This project uses model and data from https://github.com/CubiCasa/CubiCasa5k repository which is under Creative Commons Attribution-NonCommercial 4.0 International License.
- - Python code of this project is written in Ubuntu, Conda environment and cuda (Geforce RTX 3060). Thus, requirements.txt will only work on Ubuntu. 
- - C# code of this project is written in Windows and Visual Studio.
+ - Python code is tested on Ubuntu, Conda environment and cuda. (Geforce RTX 3060). Thus, requirements.txt will only work on Ubuntu. 
+ - C# code of this project is written in Windows and Visual Studio (.NET 8).
  - The C# code of this project targets Revit 2025, 
- https://help.autodesk.com/view/RVT/2025/ENU/?guid=Revit_API_Revit_API_Developers_Guide_html use this link to set up addin file.
+ ( https://help.autodesk.com/view/RVT/2025/ENU/?guid=Revit_API_Revit_API_Developers_Guide_html ) use this link to set up addin file.
 
  - 이 프로젝트는 Creative Commons Attribution-NonCommercial 4.0 International License 하에 있는 https://github.com/CubiCasa/CubiCasa5k 리포지토리의 모델과 데이터를 사용합니다.
  - 이 프로젝트의 Python 코드는 Ubuntu, Conda 환경 및 CUDA (Geforce RTX 3060)에서 작성되었습니다. 따라서 requirements.txt 파일은 Ubuntu에서만 작동합니다.
@@ -30,9 +30,11 @@ Second, use csv file in the first stage to automatically create wall using Revit
 Fork or clone the repository.\
 리포지토리를 포크하거나 클론하세요.
 
-1. To use ai model in python, set up the environment using requirements.txt and conda.\
+1. To use ai model in python, set up the environment using requirements.txt and conda.
+\
 1. Python에서 AI 모델을 사용하려면 requirements.txt와 conda를 사용하여 환경을 설정하세요.
 \
+
 
 
 ```python
@@ -46,12 +48,12 @@ After running the code, make sure the csv file is located at your desired path.\
 \
 2. Place 'Revit_Addin_Code/AutomaticWallCreationFromCSV.addin' into your Revit addin path, which is specified in Revit documentation. (https://help.autodesk.com/view/RVT/2025/ENU/?guid=Revit_API_Revit_API_Developers_Guide_html) 
 \
-2.'Revit_Addin_Code/AutomaticWallCreationFromCSV.addin' 파일을 Revi 문서에 명시된 Revit 애드인 경로에 배치하세요.
+2.'Revit_Addin_Code/AutomaticWallCreationFromCSV.addin' 파일을 Revit 문서에 명시된 Revit 애드인 경로에 배치하세요. (https://help.autodesk.com/view/RVT/2025/ENU/?guid=Revit_API_Revit_API_Developers_Guide_html) 
 \
 \
 In WallCreation.cs, change 'User Variable' to your desired values. Just make sure that file path of your csv file matches.\
 WallCreation.cs 파일에서 'User Variable'을 원하는 값으로 변경하세요. csv 파일의 경로가 일치하는지 확인하세요.
-\
+
 ## Demo
 
 
@@ -70,6 +72,6 @@ https://github.com/BaeSungHyun/Automatic-Wall-Creation-from-Raster-Floor-Plan-in
 
 \
 \
-Final Photo of Wall
+3. Final Photo of Wall
 
 ![Final_Wall](https://github.com/BaeSungHyun/Automatic-Wall-Creation-from-Raster-Floor-Plan-in-Revit/assets/117246534/4adce065-daeb-425b-a217-66bb99cfc733)
